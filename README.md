@@ -13,8 +13,8 @@ You can find my solutions to each of these problems in this repository.
 cd anywhere..
 
 # Clone this repository using git
-git clone https://github.com/ImErvin/JupyterPyplotNumpy-Problem-Sheet.git
-cd JupyterPyplotNumpy-Problem-Sheet
+git clone https://github.com/ImErvin/Tensorflow-Problem-Sheet.git
+cd Tensorflow-Problem-Sheet
 
 # Use Jupyter to open the .ipynb within the directory.
 Jupyter notebook IrisNotebook.ipynb
