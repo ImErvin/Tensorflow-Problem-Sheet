@@ -6,7 +6,7 @@ You can find my solutions to each of these problems in this repository.
 
 ### How to use this repository
 
-1. Ensure you have Python 3.x, Jupyter and Git installed locally.
+1. Ensure you have Python 3.x, Jupyter, Tensorflow, Numpy and Git installed locally.
 2. Enter the following commands into your command line.
 ```bash
 # Change directory to anywhere you desire
