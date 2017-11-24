@@ -3,7 +3,7 @@ This is a simple MNIST problem sheet. The aim of this problem sheet is to get a 
 
 You can find my solutions to each of these problems in this repository.
 
-**Note:** This readme is here to explain how to run the notebook locally - If you're looking for detailed explanations of the code and technologies, have a look at githubs version of the notebook [here](https://github.com/ImErvin/JupyterPyplotNumpy-Problem-Sheet/blob/master/IrisNotebook.ipynb)
+**Note:** This readme is here to explain how to run the notebook locally - If you're looking to simply view the notebook or to see detailed explanations of the code and technologies, have a look at githubs version of the notebook [here](https://github.com/ImErvin/Tensorflow-Problem-Sheet/blob/master/IrisNotebook.ipynb).
 
 
 ### How to use this repository
