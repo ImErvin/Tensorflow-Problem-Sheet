@@ -1,12 +1,14 @@
 ## Tensorflow Problem Sheet
-This is a simple MNIST problem sheet. The aim of this problem sheet is to get a foot in the door and start learning about deep learning. This problem sheet was created by [Ian Mcloughlin](https://github.com/ianmcloughlin) as part of our emerging technologies module in college.
+This is a simple MNIST problem sheet. The aim of this problem sheet is to get a foot in the door and start learning about machine learning using popular libraries. This problem sheet was created by [Ian Mcloughlin](https://github.com/ianmcloughlin) as part of our emerging technologies module in college.
 
 You can find my solutions to each of these problems in this repository.
+
+**Note:** This readme is here to explain how to run the notebook locally - If you're looking for detailed explanations of the code and technologies, have a look at githubs version of the notebook [here](https://github.com/ImErvin/JupyterPyplotNumpy-Problem-Sheet/blob/master/IrisNotebook.ipynb)
 
 
 ### How to use this repository
 
-1. Ensure you have Python 3.x, Jupyter, Tensorflow, Numpy and Git installed locally.
+1. Ensure you have Python 3.x, Jupyter, Tensorflow, Keras, Numpy and Git installed locally.
 2. Enter the following commands into your command line.
 ```bash
 # Change directory to anywhere you desire
